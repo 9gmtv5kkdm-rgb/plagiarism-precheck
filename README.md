@@ -1,4 +1,4 @@
-# 查重预检与降重方法论 | Plagiarism Pre-Check & Reduction Methodology
+﻿# 查重预检与降重方法论 | Plagiarism Pre-Check & Reduction Methodology
 
 ## 中文
 
@@ -52,3 +52,7 @@ plagiarism, duplicate rate, CNKI, Turnitin, citation boundary, academic miscondu
 | `references/citation-boundaries.md` | 引用边界判定指南 |
 | `references/ai-plagiarism-dual-check.md` | AI 痕迹 + 查重双重策略 |
 | `references/checklist-and-workflow.md` | 投稿前自查清单 + 工作流 |
+
+---
+
+作者：刘楠
